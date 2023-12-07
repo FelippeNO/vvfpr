@@ -28,8 +28,8 @@ Isso iniciará a execução dos testes automatizados usando o framework Cypress.
 
 Durante a execução dos testes, vídeos e capturas de tela (screenshots) serão gerados e salvos nas seguintes pastas:
 
-Vídeos: ./cypress/videos
-Screenshots: ./cypress/screenshots
+* Vídeos: ./cypress/videos
+* Screenshots: ./cypress/screenshots
 
 Os vídeos fornecem uma gravação visual completa da execução dos testes, enquanto os screenshots podem ser úteis para a análise detalhada de casos específicos.
 
